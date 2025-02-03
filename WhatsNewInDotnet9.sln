@@ -4,6 +4,8 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureSwitching", "FeatureSwitching\FeatureSwitching.csproj", "{AE1368B9-2B2E-5DE7-0C0F-52724482D85A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp13", "CSharp13\CSharp13.csproj", "{D4389048-8385-4350-96B6-92224DBDF05E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,6 +16,10 @@ Global
 		{AE1368B9-2B2E-5DE7-0C0F-52724482D85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE1368B9-2B2E-5DE7-0C0F-52724482D85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE1368B9-2B2E-5DE7-0C0F-52724482D85A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4389048-8385-4350-96B6-92224DBDF05E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4389048-8385-4350-96B6-92224DBDF05E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4389048-8385-4350-96B6-92224DBDF05E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4389048-8385-4350-96B6-92224DBDF05E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
