@@ -12,6 +12,9 @@
 
 
 //Escape Sequence
-EscapeSequence.Display();
+//EscapeSequence.Display();
+
+//Lock object
+await LockClass.Run();
 
 
