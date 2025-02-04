@@ -41,3 +41,5 @@ var countdown = new TimerRemaining()
 };
 
 
+// In C# 13 partial properties and indexers are available just like the way we have partial methods.
+
