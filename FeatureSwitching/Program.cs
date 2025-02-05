@@ -3,4 +3,4 @@
     NewFeature.ImplementNewFeature();
 }
 else
-    Console.WriteLine("Hello World!");
+    Console.WriteLine("New Feature is Disabled!");

@@ -1,6 +1,6 @@
 ﻿
 
-// Params Collections
+//Params Collections
 // IEnumerable<string> temperature=new List<string>(){
 //     "77f","80f","75f"
 // };
@@ -18,9 +18,9 @@
 //await LockClass.Run();
 
 //Method Group Natural Type
-// var calc=new Calculator();
-// Func<int,int,int> addInt=calc.Add;
-// Console.WriteLine(addInt(3,4));
+// var calc = new Calculator();
+// Func<int, int, int> addInt = calc.Add;
+// Console.WriteLine(addInt(3, 4));
 
 // implicit index access
 var countdown = new TimerRemaining()

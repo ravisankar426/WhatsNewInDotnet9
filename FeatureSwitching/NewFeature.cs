@@ -14,6 +14,6 @@ public class NewFeature
         isNewFeatureEnabled : false;
     internal static void ImplementNewFeature()
     {
-        Console.WriteLine("This is a New feature!");
+        Console.WriteLine("New Feature is Enabled!");
     }
 }
